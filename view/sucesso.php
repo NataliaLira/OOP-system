@@ -7,4 +7,4 @@
     }
 ?>
 
-<h1>Olá <?php echo $pessoa->getNome(); ?> VOCÊ FOI CADASTRADO COM SUCESSO!</h1>
+<h1>Olá <?php echo $pessoa->getNome(); ?>, você foi cadastrada com sucesso!</h1>
